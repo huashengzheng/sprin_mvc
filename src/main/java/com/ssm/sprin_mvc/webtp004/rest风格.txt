@@ -1,0 +1,10 @@
+
+
+springmvc  提交参数
+
+          url?userid=1007&username=admin
+    rest风格 路参
+
+    url/1007/admin
+    url/1007/admin/18
+
